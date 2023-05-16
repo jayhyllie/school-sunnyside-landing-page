@@ -288,7 +288,7 @@ header .header__title i {
 
 /* MOBILE */
 
-@media (max-width: 400px) {
+@media (max-width: 430px) {
     header,
     main,
     footer {
